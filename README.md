@@ -34,9 +34,9 @@ My goal is to grow into a **Junior Backend Developer** role and start my journey
 ---
 
 ## 🌍 Connect with Me
-📧 Email: **your-email@example.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/YOUR-USERNAME)  
+📧 Email: marcodelsole98@outlook.com  
+💼 [LinkedIn](www.linkedin.com/in/marco-del-sole-8bb36a364)  
+🐙 [GitHub](https://github.com/MarcoDSdev)
 
 ---
 
