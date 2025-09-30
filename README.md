@@ -1,43 +1,43 @@
-# 👋 Hi, I'm Marco  
+# 🚀 Hey there, I'm Marco!  
 
-🎯 **Aspiring Backend Developer**  
-Passionate about software development and currently focusing on building my skills in **backend technologies**.  
-My goal is to grow into a **Junior Backend Developer** role and start my journey in the IT world.  
+# Hi, I'm Marco 👋  
 
----
+## 👨‍💻 About Me  
+I am an aspiring **Backend Developer** passionate about building software and solving problems.  
+My goal is to grow into a **Junior Backend Developer** role and start my career in the IT industry.  
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-323330?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+I’m constantly improving my skills through practice, exercises, and personal projects, while exploring both backend development and web technologies.  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Skills  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Langs" height="160"/>
-</p>
+- **Languages:** Java ☕ | Python 🐍 | JavaScript  
+- **Frameworks & Tools:** Django | JPA | Hibernate  
+- **Databases:** MySQL | MongoDB | SQL  
+- **Web Development:** HTML5 | CSS3 | JavaScript   
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>  
 
 ---
 
-## 🌍 Connect with Me
-📧 Email: marcodelsole98@outlook.com  
-💼 [LinkedIn](www.linkedin.com/in/marco-del-sole-8bb36a364)  
-🐙 [GitHub](https://github.com/MarcoDSdev)
+## 📫 Contact  
+- 📧 Email: marcodelsole98@outlook.com  
+- 💼 [LinkedIn](www.linkedin.com/in/marco-del-sole-8bb36a364)  
+- 🐙 [GitHub](https://github.com/MarcoDSdev)  
 
 ---
 
-✨ *“The best way to learn is by building.”*  
+✨ *"The best way to predict the future is to create it."* – Peter Drucker  
